@@ -1,4 +1,4 @@
-# ML---SalePrediction-using-LogisticRegression
+# ML- SalePrediction-using-LogisticRegression
 
 ### Steps carried to solve the usecase
      1. The problem - > To predict weather the new customer will buy certain product or not
